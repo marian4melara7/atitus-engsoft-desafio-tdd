@@ -63,14 +63,6 @@ Para realizar os desafios, siga os passos abaixo:
 
 ---
 
-## 📚 Referências Essenciais
-
-- **BECK, Kent.** *Test-Driven Development: By Example*. Addison-Wesley, 2002.
-- **MARTIN, Robert C.** *Clean Code: A Handbook of Agile Software Craftsmanship*. Prentice Hall, 2008.
-- **FEATHERS, Michael.** *Working Effectively with Legacy Code*. Prentice Hall, 2004.
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **Jest**: Framework de testes robusto e veloz.
