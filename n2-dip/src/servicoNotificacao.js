@@ -3,8 +3,7 @@ export class ServicoNotificacao {
     this.gatewayEmail = gatewayEmail;
   }
 
-  async enviarBoasVindas(usuario) {
-    return await this.gatewayEmail.enviar(usuario.email, 'Bem-vindo!');
+  enviarBoasVindas({ email }) {
+    return this.gatewayEmail.enviar(email, 'Bem-vindo!');
   }
 }
-
