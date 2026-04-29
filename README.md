@@ -24,6 +24,18 @@ Os desafios estão organizados por níveis de maturidade e aplicação de princ�
 
 ---
 
+## 📝 Instruções de Entrega
+
+Para realizar os desafios, siga os passos abaixo:
+
+1.  **Faça um Fork:** Clique no botão "Fork" no topo desta página para criar uma cópia deste repositório em sua conta pessoal.
+2.  **Clone o seu Fork:** Clone o repositório da **sua conta** para o seu computador.
+3.  **Desenvolva:** Realize as refatorações nos arquivos dentro de cada pasta de desafio seguindo o ciclo TDD.
+4.  **Commit e Push:** Salve suas alterações e envie para o seu repositório pessoal no GitHub.
+5.  **Envio:** O link de entrega deve ser o **URL do seu repositório pessoal** (o seu fork) com os desafios resolvidos.
+
+---
+
 ## 🚀 Como começar
 
 ### Pré-requisitos
